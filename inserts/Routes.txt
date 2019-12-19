@@ -1,0 +1,4 @@
+68	bus	32
+234	bus	45
+38	bus	30
+45	tramvai	35
